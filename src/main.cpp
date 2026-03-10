@@ -77,7 +77,7 @@ int main () {
   // std::ifstream cBookFile;
   // int count = 0;
 
-  // TODO #1: Implement Book.cpp constructors, getters, and write (not read)
+  // TODO #3: Implement Book.cpp constructors, getters, and write (not read)
   //          In read, you will need to use the read functions from Person
   //          and Date. This is a BIG jump. Further, when reading in a book
   //          title, use std::getline (streamVariable, stringVariable);
@@ -88,13 +88,13 @@ int main () {
 
 
 
-    // TODO #2: Implement read. Declare a Book variable cBook with a title of 
+    // TODO #4: Implement read. Declare a Book variable cBook with a title of 
     //          "CS270 Is Fun", the author is your first and last name, and the 
     //          date is today's date which is 3 10 2026
 
 
 
-    // TODO #3: Implement readBooks and writeBooks functions in main. Then
+    // TODO #5: Implement readBooks and writeBooks functions in main. Then
     //          uncomment the following code which is to produce the 
     //          remaining output shown above.
 
